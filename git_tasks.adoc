@@ -5,6 +5,9 @@
 Покажите результат выполнения команды своему ментору.
 . [Опционально] Установите `git gui` / `gitk` / Github Desktop / SmartGit / GitKraken.
 . Заведите аккаунт на GitHub и сообщите своему ментору.
-. Склонируйте https://github.com/unschooler97/java-helloworld[этот репозиторий].
+. Форкните https://github.com/unschooler97/java-helloworld[этот репозиторий] и склонируйте его себе на компьютер.
 . [Опционально] Скомпилируйте файл `HelloWorld.java` и запустите его.
 Да, мы пока не проходили ничего про Java, но программирование – это дорога экспериментов и приключений!
+. Измените https://github.com/unschooler97/java-helloworld/blob/main/HelloWorld.java#L3[строку №3] чтобы программа печатала "Привет, Мир!" (или любой другой текст).
+. Отправьте эти изменения в свой форк на GitHub.
+. Откройте pull request со своими изменениями в https://github.com/unschooler97/java-helloworld[основной репозиторий].
