@@ -4,5 +4,4 @@
 
 == План
 
-. link:git.adoc[Git]
-
+. link:git.adoc[Git] / link:git_tasks.adoc[Git]
