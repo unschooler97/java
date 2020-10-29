@@ -1,0 +1,8 @@
+= Java curriculum
+
+Учебный курс по Java @ Unschooler97.
+
+== План
+
+. link:git.adoc[Git]
+
