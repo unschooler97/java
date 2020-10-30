@@ -5,3 +5,4 @@
 == План
 
 . link:git.adoc[Git] / link:git_tasks.adoc[Домашнее задание по Git]
+. link:ide.adoc[IDE] / link:ide_tasks.adoc[Домашнее задание по IDE]
